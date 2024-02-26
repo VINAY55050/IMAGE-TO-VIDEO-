@@ -78,7 +78,7 @@ The model is intended for research purposes only.
 
 ## How to Get Started with the Model
 
-Check out https://github.com/Stability-AI/generative-models
+Check out https://github.com/VINAY55050/IMAGE-TO-VIDEO-.git
 
 # Appendix: 
 
